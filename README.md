@@ -1,4 +1,4 @@
-## Hi the****re 👋
+## Hi there 👋
  <picture> <source media="(prefers-color-scheme: dark)" srcset="ayan_banner_dark.svg"> <img src="ayan_banner_light.svg" alt="Ayan Javed - Flutter Developer" width="100%"> </picture>
 <!--
 **Ayan99coder/Ayan99coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
