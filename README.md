@@ -1,41 +1,31 @@
-## Hi there 👋
- <picture> <source media="(prefers-color-scheme: dark)" srcset="ayan_banner_dark.svg"> <img src="ayan_banner_light.svg" alt="Ayan Javed - Flutter Developer" width="100%"> </picture>
-<!--
-**Ayan99coder/Ayan99coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Ayan%20Javed&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Dart%20%7C%20Mobile%20App%20Developer&descAlignY=55&descSize=18" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="ayan_banner_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="ayan_banner_light.svg">
+  <img src="ayan_banner_light.svg" alt="Ayan Javed - Flutter Developer" width="100%">
+</picture>
+
+<br><br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+Flutter+Mobile+Applications;Learning+Clean+Architecture;Exploring+Riverpod+%26+Firebase;Turning+Ideas+Into+Real+Apps;Growing+Into+a+Full+Stack+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Flutter+Developer;Building+Real-World+Mobile+Applications;Exploring+Riverpod+%26+Firebase;Learning+Clean+Architecture;Building+Scalable+Applications;Growing+Into+a+Full+Stack+Engineer" alt="Typing SVG">
 </a>
 
-<br/>
+<br><br>
 
-<img src="https://img.shields.io/badge/Flutter-Developer-7dd3fc?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-Developer-7DD3FC?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-Developer-7DD3FC?style=for-the-badge&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/Riverpod-Learning-7DD3FC?style=for-the-badge&logo=flutter&logoColor=white">
 
-<img src="https://img.shields.io/badge/Open%20to%20Learning-7dd3fc?style=for-the-badge&logo=github&logoColor=white" />
+<br><br>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Ayan99coder&label=Profile%20Views&color=7dd3fc&style=flat" />
-<img src="https://img.shields.io/github/followers/Ayan99coder?label=Followers&style=flat&color=7dd3fc" />
+<img src="https://komarev.com/ghpvc/?username=Ayan99coder&label=Profile%20Views&color=7DD3FC&style=flat">
+<img src="https://img.shields.io/github/followers/Ayan99coder?label=Followers&style=flat&color=7DD3FC">
 
 </div>
 
-<br/>
+<br>
 
 ## 👨‍💻 About Me
 
@@ -69,11 +59,11 @@ const ayan = {
 
 I'm an aspiring **Flutter Developer** passionate about building clean, scalable, and user-friendly mobile applications.
 
-I enjoy turning ideas into real applications while continuously improving my understanding of **Dart, Flutter, Firebase, state management, software architecture, and backend development**.
+I enjoy turning ideas into real applications while continuously improving my knowledge of **Dart, Flutter, Firebase, state management, software architecture, databases, and backend development**.
 
-My long-term goal is to grow from a Flutter developer into a **professional Full Stack Software Engineer**.
+My long-term goal is to become a **professional Full Stack Software Engineer** capable of building complete, scalable, and production-ready applications.
 
-<br/>
+<br>
 
 ## 🚀 Featured Projects
 
@@ -93,18 +83,19 @@ A comprehensive learning management platform designed to connect **tutors and st
 * ⚡ Riverpod state management
 * 🏗️ Feature-First Clean Architecture
 * 📦 Repository Pattern
+* 🔄 Real-time data synchronization
 
 **Tech Stack**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
-
-🔗 [View My GitHub](https://github.com/Ayan99coder)
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase">
+</p>
 
 ---
 
 ### 🏥 Healthcare Management System
 
-A healthcare-focused management application designed to organize healthcare-related information and provide a structured digital management experience.
+A healthcare management application focused on organizing healthcare-related information and providing a structured digital management experience.
 
 **Key Features**
 
@@ -118,15 +109,15 @@ A healthcare-focused management application designed to organize healthcare-rela
 
 **Tech Stack**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
-
-🔗 [View My GitHub](https://github.com/Ayan99coder)
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase">
+</p>
 
 ---
 
 ### 🍰 Bake Time App
 
-A Flutter mobile application built around baking and recipe-related content, with a focus on clean UI and smooth mobile user experience.
+A Flutter mobile application focused on baking and recipe-related content with a clean and user-friendly mobile experience.
 
 **Key Features**
 
@@ -139,9 +130,9 @@ A Flutter mobile application built around baking and recipe-related content, wit
 
 **Tech Stack**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-
-🔗 [View My GitHub](https://github.com/Ayan99coder)
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart">
+</p>
 
 ---
 
@@ -160,21 +151,21 @@ A Flutter application focused on managing and displaying student information thr
 
 **Tech Stack**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart">
+</p>
 
-🔗 [View My GitHub](https://github.com/Ayan99coder)
-
-<br/>
+<br>
 
 ## 📱 Other Projects
 
 ### 📝 Notes App
 
-A Flutter notes application created to practice local data persistence, CRUD operations, and mobile application architecture.
+A Flutter notes application created to practice local data persistence, CRUD operations, and application architecture.
 
 **Tech:** Flutter • Dart • SQLite
 
-🔗 [Repository](https://github.com/Ayan99coder/notes_app)
+🔗 [View Repository](https://github.com/Ayan99coder/notes_app)
 
 ---
 
@@ -184,7 +175,7 @@ A task management application built while practicing Flutter UI, application log
 
 **Tech:** Flutter • Dart
 
-🔗 [Repository](https://github.com/Ayan99coder/task_management_app)
+🔗 [View Repository](https://github.com/Ayan99coder/task_management_app)
 
 ---
 
@@ -194,17 +185,17 @@ A Flutter-based chat application project focused on building interactive mobile 
 
 **Tech:** Flutter • Dart
 
-🔗 [Repository](https://github.com/Ayan99coder/chat_app)
+🔗 [View Repository](https://github.com/Ayan99coder/chat_app)
 
 ---
 
 ### 🧮 BMI Calculator
 
-A beginner-friendly Flutter application for calculating BMI while practicing UI development, input handling, and application logic.
+A Flutter application for calculating BMI while practicing UI development, input handling, and application logic.
 
 **Tech:** Flutter • Dart
 
-🔗 [Repository](https://github.com/Ayan99coder/bmi_calculator)
+🔗 [View Repository](https://github.com/Ayan99coder/bmi_calculator)
 
 ---
 
@@ -214,7 +205,7 @@ A quiz application project created to explore Flutter application development an
 
 **Tech:** Flutter • Dart
 
-🔗 [Repository](https://github.com/Ayan99coder/quiz_app_AI_Generated)
+🔗 [View Repository](https://github.com/Ayan99coder/quiz_app_AI_Generated)
 
 ---
 
@@ -224,28 +215,28 @@ A Flutter practice project focused on interactive quiz functionality and logic b
 
 **Tech:** Flutter • Dart
 
-🔗 [Repository](https://github.com/Ayan99coder/quiz_number_equation)
+🔗 [View Repository](https://github.com/Ayan99coder/quiz_number_equation)
 
-<br/>
+<br>
 
 ## 🛠️ Tech Stack
 
 ### 📱 Mobile Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+<img src="https://skillicons.dev/icons?i=flutter,dart">
 </p>
 
 ### 🔥 Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=firebase,supabase,postgresql,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=firebase,supabase,postgresql,mysql,sqlite">
 </p>
 
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=dart,cpp,python,java,javascript" />
+<img src="https://skillicons.dev/icons?i=dart,cpp,python,java,javascript">
 </p>
 
 ### ⚡ State Management
@@ -272,10 +263,10 @@ Separation of Concerns
 ### 🧰 Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman">
 </p>
 
-<br/>
+<br>
 
 ## 🧠 What I'm Learning
 
@@ -301,7 +292,7 @@ Backend Development
 Full Stack Software Engineering
 ```
 
-<br/>
+<br>
 
 ## 🎯 Current Focus
 
@@ -316,7 +307,7 @@ Full Stack Software Engineering
 * 🚀 Building real-world portfolio projects
 * 💻 Moving toward full-stack software engineering
 
-<br/>
+<br>
 
 ## 📚 My Development Philosophy
 
@@ -326,43 +317,43 @@ I believe the best way to learn software development is by building real project
 
 Every project I build helps me understand something new — from Flutter widgets and state management to architecture, databases, authentication, and backend development.
 
-<br/>
+<br>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ayan99coder&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ayan99coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayan99coder&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayan99coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%">
 
-<br/><br/>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=Ayan99coder&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=Ayan99coder&theme=tokyonight&hide_border=true" width="70%">
 
 </div>
 
-<br/>
+<br>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ayan99coder&theme=nord&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ayan99coder&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7">
 
 </div>
 
-<br/>
+<br>
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayan99coder&theme=nord&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayan99coder&theme=tokyo-night&hide_border=true&area=true" width="90%">
 
 </div>
 
-<br/>
+<br>
 
 ## 🎯 2026 Goals
 
@@ -375,25 +366,26 @@ Every project I build helps me understand something new — from Flutter widgets
 * [ ] Build full-stack applications
 * [ ] Publish applications on Google Play Store
 * [ ] Contribute to real-world projects
+* [ ] Build and deploy production applications
 * [ ] Grow into a professional software engineer
 
-<br/>
+<br>
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Ayan99coder">
-  <img src="https://img.shields.io/badge/GitHub-Ayan99coder-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Ayan99coder-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
@@ -402,5 +394,4 @@ Every project I build helps me understand something new — from Flutter widgets
 **Every project is another step toward becoming a better software engineer.**
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=150&section=footer&animation=twinkling" />
+```
