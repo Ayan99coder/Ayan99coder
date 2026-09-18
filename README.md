@@ -325,7 +325,17 @@ Every project I build helps me understand something new — from Flutter widgets
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ayan99coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayan99coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%">
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Ayan99coder&theme=tokyo-night&hide_border=true&area=true"
+  width="90%"
+  alt="Ayan Javed GitHub Contribution Graph"
+/>
+
+</div>
 
 <br><br>
 
