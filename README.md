@@ -348,7 +348,11 @@ Every project I build helps me understand something new — from Flutter widgets
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayan99coder&theme=tokyo-night&hide_border=true&area=true" width="90%">
+<img
+  src="https://raw.githubusercontent.com/Ayan99coder/Ayan99coder/output/activity-graph.svg"
+  width="90%"
+  alt="Ayan Javed GitHub Contribution Graph"
+/>
 
 </div>
 
